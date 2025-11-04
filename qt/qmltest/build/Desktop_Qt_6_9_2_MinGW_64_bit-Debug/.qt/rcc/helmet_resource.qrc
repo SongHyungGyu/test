@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="images/helmet.png">C:/project/qt/qmltest/images/helmet.png</file>
+  </qresource>
+</RCC>
+

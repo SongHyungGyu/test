@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+ab5892b58fd5806e741434f07d525fb3 CMakeFiles/picturetest_autogen
+1bee7e53f25f97bf085489642e1a2c07 picturetest_autogen/4UGIYD6VGQ/qrc_resources.cpp
+c1e4bcaaef25eb0d0dfc08b7c58cce09 picturetest_autogen/timestamp

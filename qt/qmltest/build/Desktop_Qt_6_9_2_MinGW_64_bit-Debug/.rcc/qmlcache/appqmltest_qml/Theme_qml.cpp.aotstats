@@ -1,0 +1,12 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                ],
+                "filePath": "C:/project/qt/qmltest/qml/Theme.qml"
+            }
+        ],
+        "moduleId": "qmltest(appqmltest)"
+    }
+]
